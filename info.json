@@ -9,4 +9,9 @@
    "devices": ["21121210GE57F082048662F32"],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "dhimzjos1": {
+   "password": "$2y$12$bcahdOk6c4T0aTXeCy.r4OPmdSoKaoF6eRsgqIoCxdZ2VNW6JDyOa",
+   "devices": ["RMX33632DEAAD908D219B4B"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
