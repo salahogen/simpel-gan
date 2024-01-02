@@ -1,12 +1,7 @@
 {
-  "user_one": {
-   "password": "$2y$12$bXTM8xJOPQB5P0znQ.PlMORCopCanBZlrNRK42JGotP/Enc1MCbaS",
-   "devices": ["REDMINOTE7DFA6D4AA53FFC362"],
-   "expiry": "31-01-2024 12:00 PM"
-  },
-  "Joelson_Mods": {
-   "password": "$2y$12$YneVqnWqieevO8oFXEfY/uD4y2BcfvCmXtQ.8xGhc4vbZafLxhECy",
-   "devices": [],
-   "expiry": "31-01-2024 12:00 PM"
-  },
+"contohcoba": {
+   "password": "$2y$12$C3YJexCg2bdmCmNbdg6S/eVdtaDijcbu1UGRbj4UuLPVvqUbI8W7a",
+   "devices": ["appaodkd"],
+   "expiry": "15-01-2033 12:00 PM"
+},
 }
