@@ -29,4 +29,9 @@
    "devices": ["CPH1933AEEE35FF1CD312B6"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Idayani88": {
+   "password": "$2y$12$9KRsEfb7AAPH8705zw4B8.2aKrECDd38GuX230hAm1zQ8GWCGTSLK",
+   "devices": ["SM-F936BC55EA8CBB888BA78"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
