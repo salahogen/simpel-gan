@@ -4,4 +4,9 @@
    "devices": ["appaodkd"],
    "expiry": "15-01-2033 12:00 PM"
 },
+   "contohlogin1": {
+   "password": "$2y$12$iV/z4oPu/XWITLYidgdwEeWWUPu6RQ9GPBHZ4WlEPFMoL4JZuag1W",
+   "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
+   "expiry": "29-02-2024 12:59 AM"
+},
 }
