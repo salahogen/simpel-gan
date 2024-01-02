@@ -24,4 +24,9 @@
    "devices": ["21121210GE57F082048662F32"],
    "expiry": "30-06-2024 12:00 PM"
 },
+   "riskitriwidya12": {
+   "password": "$2y$12$SandZUfoe35FJ8ugm4iGPuny/gxkLJSLrF6fZwsv4lIkpAj2MZoeu",
+   "devices": ["CPH1933AEEE35FF1CD312B6"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
