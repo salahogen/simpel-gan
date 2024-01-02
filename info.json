@@ -14,4 +14,9 @@
    "devices": ["RMX33632DEAAD908D219B4B"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "bavaok1": {
+   "password": "$2y$12$4J5NvjMn63hVd.gzSkXyLuCttjzhV7YPGfte35ssfHffm4jfL4tg2",
+   "devices": ["RMX33632DEAAD908D219B4B","SM-A325F8F3DAA3BC6C6AA94"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
