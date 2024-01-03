@@ -59,4 +59,9 @@
    "devices": ["SM-A515FA9227DD63C2441F3"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "vitaeliciafianty": {
+   "password": "$2y$12$Ez.FefD5vw7DA5ehg2tn4Odk9JbRK0Z5mwUVq5YRBkEhLS7waGSAK",
+   "devices": ["CPH19117C3DC4D3D5B3FFA9"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
