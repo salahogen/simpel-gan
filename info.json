@@ -114,4 +114,9 @@
    "devices": ["M2101K7BNYDDC5633D2CAD4084"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "adyaksa89": {
+   "password": "$2y$12$RMWjY3eyX/DdsXdkeTCS6efMYFwLoPuMCNUBWaotK8jcA02GB/hGO",
+   "devices": ["CPH1931626E099BF52FF26F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
