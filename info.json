@@ -64,4 +64,9 @@
    "devices": ["CPH19117C3DC4D3D5B3FFA9"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "dafidindra": {
+   "password": "$2y$12$xWkzOvq2DyXrndTgqZ7KuOueUMd0/tTPgLlqVYQAj/hfr4zfjYeW2",
+   "devices": ["M2101K7BNY4EAE5B34357855A6"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
