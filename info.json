@@ -44,4 +44,9 @@
    "devices": ["SM-A505F669555A00A19C424"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Lizarya68": {
+   "password": "$2y$12$5RFmoTdTSsdHquDo.7roO.3tbk4N5ai7oPtBftl96JRKa6G5J4w76",
+   "devices": ["SM-A115F97371FFBA5F59F45"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
