@@ -114,4 +114,9 @@
    "devices": ["CPH1931626E099BF52FF26F"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Jekekrecka": {
+   "password": "$2y$12$rY5T9Zk.YQy2MkjtIUIobOvFRjhIf5/PwrbAaQMKcX00OG1kUMZn.",
+   "devices": ["CPH213991C49B96A072797E"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
