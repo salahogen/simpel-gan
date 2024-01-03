@@ -39,4 +39,9 @@
    "devices": ["CPH2061D1B50D0FEEDEE686"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "ritasindu": {
+   "password": "$2y$12$4TitHPL8KI72Dp90Wkw0cOoYsjSgRkq78y1VIt7xd9oAqrDlR3Eku",
+   "devices": ["SM-A505F669555A00A19C424"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
