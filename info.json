@@ -104,11 +104,6 @@
    "devices": ["M2003J15SC8FF57D71AC209741"],
    "expiry": "31-07-2024 12:00 PM"
 },
-   "Purnomojekek": {
-   "password": "$2y$12$2TfFnqdeoYWl0IfF9Fx4LusXHjEiiKWB9PWq3Wjy7pYIQAgqx.ouC",
-   "devices": ["CPH213991C49B96A072797E"],
-   "expiry": "31-07-2024 12:00 PM"
-},
    "Heruari": {
    "password": "$2y$12$iEFYrkSS/JFlVEWv.zcD2ef1btNcqeowshP6m3Xc/I9NKGzcKu1xa",
    "devices": ["M2101K7BNYDDC5633D2CAD4084"],
