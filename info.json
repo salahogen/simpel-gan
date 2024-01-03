@@ -129,4 +129,9 @@
    "devices": ["V21201233CFAC345D03AA"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Warsilah1": {
+   "password": "$2y$12$X.4e7T3ek5VEsD7GjgB.ZuX31qaA68h8cFosBOHyQcsFDMfbFZoVO",
+   "devices": ["SM-M307F9E8218B988A0A230"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
