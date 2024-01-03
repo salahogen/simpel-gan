@@ -129,4 +129,9 @@
    "devices": ["V21201233CFAC345D03AA"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "198809272022211005": {
+   "password": "$2y$12$29Kb58spyd9BMj8goNOvqeKyQeLOAL5XMYS2jPL1UD0O3jIPbx40S",
+   "devices": ["VIVO2019DD4027E212FB1BD8"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
