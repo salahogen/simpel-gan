@@ -139,4 +139,9 @@
    "devices": ["V220740642D53D87D77CF"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Getasaha12": {
+   "password": "$2y$12$9LSay4akFzjct08G9F9poOHOjfmqsXL5WjCmgSv.kccOvNeIqsMkG",
+   "devices": ["CPH21139978158B66468DB7"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
