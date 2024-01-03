@@ -89,4 +89,9 @@
    "devices": ["2306EPN60G38EA79B398F65092"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "agussindu": {
+   "password": "$2y$12$lpyCeaDPZnnzfnuyYmlD7uuVmBLtJnTER1sOPUNIqtMOZvnrv4Xty",
+   "devices": ["SM-G570Y42003955D4A544C1"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
