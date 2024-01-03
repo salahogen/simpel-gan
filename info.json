@@ -114,24 +114,14 @@
    "devices": ["CPH1931626E099BF52FF26F"],
    "expiry": "31-07-2024 12:00 PM"
 },
-   "Jekekrecka": {
-   "password": "$2y$12$rY5T9Zk.YQy2MkjtIUIobOvFRjhIf5/PwrbAaQMKcX00OG1kUMZn.",
-   "devices": ["SM-J610F73BDDAE47ED56BE0"],
-   "expiry": "31-07-2024 12:00 PM"
-},
-   "197506112010012007": {
-   "password": "$2y$12$AMoBqMQKtM/Tn8P/q54Zz.HDVYf3E1rI2OlyvBht5Se.NsS.fVG9y",
-   "devices": ["SM-M307F9E8218B988A0A230"],
-   "expiry": "31-07-2024 12:00 PM"
-},
-   "2019060342": {
-   "password": "$2y$12$qLMkm9zlMn/5zLHIityV/.Q7bd.TuUFs5x4HRtDKLH78D2nUmERqa",
-   "devices": ["V21201233CFAC345D03AA"],
-   "expiry": "31-07-2024 12:00 PM"
-},
    "198809272022211005": {
    "password": "$2y$12$29Kb58spyd9BMj8goNOvqeKyQeLOAL5XMYS2jPL1UD0O3jIPbx40S",
    "devices": ["VIVO2019DD4027E212FB1BD8"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "Jekekrecka": {
+   "password": "$2y$12$UaYp12ZcM8gY3LUv9UM5f.kWIVHYLXDm4tVsS/NnfQgT5j4fi4TQu",
+   "devices": ["SM-J610F73BDDAE47ED56BE0"],
    "expiry": "31-07-2024 12:00 PM"
 },
 }
