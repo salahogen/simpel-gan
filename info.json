@@ -89,9 +89,29 @@
    "devices": ["INFINIXX6833B3ADDA5423884E0F3"],
    "expiry": "31-07-2024 12:00 PM"
 },
-   "199111182022212019": {
-   "password": "$2y$12$Q/qLNmENFgwMcq..LIm0QuKquI5HHUXwQ7qEFlMc5yIY8H/qa.lcu",
+   "Noviawinda91": {
+   "password": "$2y$12$5Vn9rnPQ8hpb4AiiWw0lyOCF/vW60EdU4JhSf5fizdtl8jbzeeFy.",
    "devices": ["CPH215994BEFE8DBAF73724"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "bangjali": {
+   "password": "$2y$12$.bOtwhKk.v7vA1JRL2H6X.VEuweaIG4pKkVkWxk7W6npZCJ0ZKDkq",
+   "devices": ["CPH19378494F7E200987D3A"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "baguspanji38": {
+   "password": "$2y$12$CPi7.Azg39azwNbNpbzfR.h3MKHZVPT7QNamtZ0.ouSh0YVtatZGa",
+   "devices": ["M2003J15SC8FF57D71AC209741"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "Purnomojekek": {
+   "password": "$2y$12$2TfFnqdeoYWl0IfF9Fx4LusXHjEiiKWB9PWq3Wjy7pYIQAgqx.ouC",
+   "devices": ["CPH213991C49B96A072797E"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "Heruari": {
+   "password": "$2y$12$iEFYrkSS/JFlVEWv.zcD2ef1btNcqeowshP6m3Xc/I9NKGzcKu1xa",
+   "devices": ["M2101K7BNYDDC5633D2CAD4084"],
    "expiry": "31-07-2024 12:00 PM"
 },
 }
