@@ -124,4 +124,9 @@
    "devices": ["SM-J610F73BDDAE47ED56BE0"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Anik123": {
+   "password": "$2y$12$Ik/ZRs8jA8KV4Oz6WQY5xO9iA.4v2D6wA09YpOSIja7yjvMXUg8V2",
+   "devices": ["V21201233CFAC345D03AA"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
