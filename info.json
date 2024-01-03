@@ -54,4 +54,9 @@
    "devices": ["CPH180369395BE0"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "198206292005011002": {
+   "password": "$2y$12$.0zjxmCjPMicqR0mVe.4cOSeT7Oo.C8Hv7xwjNQQopB0HxpjTMV5.",
+   "devices": ["SM-A515FA9227DD63C2441F3"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
