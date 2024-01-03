@@ -134,4 +134,9 @@
    "devices": ["SM-M307F9E8218B988A0A230"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Desibakti12": {
+   "password": "$2y$12$r13ggB3EIxWGuJtkYWAH0Ozf/f27C33u4xqDR/fiAL.2anWqpF.pC",
+   "devices": ["V220740642D53D87D77CF"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
