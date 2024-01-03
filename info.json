@@ -34,4 +34,9 @@
    "devices": ["SM-F936BC55EA8CBB888BA78"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "evisindu": {
+   "password": "$2y$12$8omiUm/0Fzi7LuOjlj31kuEm/8e89DB3mhvh7qamBoGFNvUFcUsou",
+   "devices": ["CPH2061D1B50D0FEEDEE686"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
