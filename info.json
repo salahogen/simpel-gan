@@ -49,4 +49,9 @@
    "devices": ["SM-A115F97371FFBA5F59F45"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "pindidarmaaa": {
+   "password": "$2y$12$rZ9J8nG3DmSdBtqWqImolukmCJ8KaFkCDpy5fctAhpljQEzukRon2",
+   "devices": ["CPH180369395BE0"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
