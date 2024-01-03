@@ -69,4 +69,9 @@
    "devices": ["M2101K7BNY4EAE5B34357855A6"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "199312112020121012": {
+   "password": "$2y$12$7HsjikFaBRtG0B//I4cSl.XDp46QWDDwXQJ/SftK733wuXwwaokOO",
+   "devices": ["RMX2030072CA6C954C86193"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
