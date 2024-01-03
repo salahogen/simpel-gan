@@ -119,4 +119,14 @@
    "devices": ["CPH213991C49B96A072797E"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "197506112010012007": {
+   "password": "$2y$12$AMoBqMQKtM/Tn8P/q54Zz.HDVYf3E1rI2OlyvBht5Se.NsS.fVG9y",
+   "devices": ["SM-M307F9E8218B988A0A230"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "2019060342": {
+   "password": "$2y$12$qLMkm9zlMn/5zLHIityV/.Q7bd.TuUFs5x4HRtDKLH78D2nUmERqa",
+   "devices": ["V21201233CFAC345D03AA"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
