@@ -74,4 +74,9 @@
    "devices": ["RMX2030072CA6C954C86193"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "198809272022211005": {
+   "password": "$2y$12$fK4o/Vfr8Elbrl8nyekT5efLv3bpwOU47gMJDk7FWwhQv3oE8/mGK",
+   "devices": ["VIVO2019DD4027E212FB1BD8"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
