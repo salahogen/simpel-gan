@@ -89,4 +89,9 @@
    "devices": ["SM-G570Y42003955D4A544C1"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Dedigann": {
+   "password": "$2y$12$hiX2xlXov4XNA2M5sys4uOBN3MPYw92pFUcMOVumqWnLKFZtLgFX2",
+   "devices": ["INFINIXX6833B3ADDA5423884E0F3"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
