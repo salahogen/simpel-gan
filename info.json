@@ -154,4 +154,9 @@
    "devices": ["RMX18212F363AECE4805B45"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Danang": {
+   "password": "$2y$12$TFX6RfTBhErN.lWs32Thg.DN7AsKumxiBt7yCCXDOuDOyOKSPiIsG",
+   "devices": ["CPH2333EB3323EA24840809"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
