@@ -164,4 +164,9 @@
    "devices": ["CPH1937F27AD17E01D18BB0"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Dwigan": {
+   "password": "$2y$12$FCYoo2BzKk9Qk.mniU4hgeLj7gcDzxkDic.0IM9btL7erXGtEQXwa",
+   "devices": ["SM-A135FF863BE4563C92F3D"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
