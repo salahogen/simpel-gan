@@ -149,4 +149,9 @@
    "devices": ["SM-M127F8F8560BA8F3F610C"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Artisima1": {
+   "password": "$2y$12$Ti6PY728gGt7rbMKVrpUGulQ8ovYkSyT2DkRysApO383B/c2ZkUgy",
+   "devices": ["RMX18212F363AECE4805B45"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
