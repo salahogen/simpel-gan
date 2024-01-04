@@ -1,9 +1,9 @@
 {
-   "contohcoba": {
-   "password": "$2y$12$C3YJexCg2bdmCmNbdg6S/eVdtaDijcbu1UGRbj4UuLPVvqUbI8W7a",
-   "devices": ["appaodkd"],
-   "expiry": "15-01-2033 12:00 PM"
-},
+   "Lizarya68": {
+   "password": "$2y$12$5RFmoTdTSsdHquDo.7roO.3tbk4N5ai7oPtBftl96JRKa6G5J4w76",
+   "devices": ["SM-A115F97371FFBA5F59F45"],
+   "expiry": "31-07-2024 12:00 PM"
+},      
    "dhimzjos1": {
    "password": "$2y$12$bcahdOk6c4T0aTXeCy.r4OPmdSoKaoF6eRsgqIoCxdZ2VNW6JDyOa",
    "devices": ["RMX33632DEAAD908D219B4B"],
@@ -42,11 +42,6 @@
    "ritasindu": {
    "password": "$2y$12$4TitHPL8KI72Dp90Wkw0cOoYsjSgRkq78y1VIt7xd9oAqrDlR3Eku",
    "devices": ["SM-A505F669555A00A19C424"],
-   "expiry": "31-07-2024 12:00 PM"
-},
-   "Lizarya68": {
-   "password": "$2y$12$5RFmoTdTSsdHquDo.7roO.3tbk4N5ai7oPtBftl96JRKa6G5J4w76",
-   "devices": ["SM-A115F97371FFBA5F59F45"],
    "expiry": "31-07-2024 12:00 PM"
 },
    "pindidarmaaa": {
