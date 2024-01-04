@@ -174,4 +174,9 @@
    "devices": ["V212021FC56D7CEB8D0E3"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "sriwah1": {
+   "password": "$2y$12$wDtaYcgOgpsc7lTCEAwy6ucI3zGHTViOuQ6mmoJkUnY2iILcgu5GO",
+   "devices": ["SM-A505FB0CE51078B929333"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
