@@ -144,4 +144,9 @@
    "devices": ["CPH21139978158B66468DB7"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Ananurul1": {
+   "password": "$2y$12$CqqYMs.h35pqPhqRgQ8Yc.7E8r15OQdU2wTdxle82.dxXzkFZaCkK",
+   "devices": ["SM-M127F8F8560BA8F3F610C"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
