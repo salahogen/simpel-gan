@@ -154,4 +154,9 @@
    "devices": ["CPH2333EB3323EA24840809"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Vela": {
+   "password": "$2y$12$/X52dJRjtI7Mao5p3ENfuuEfIskeszaLCt5JnIvFAd..xW.7V14Xm",
+   "devices": ["CPH1823749E0F03CCC62B2D"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
