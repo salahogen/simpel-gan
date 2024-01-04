@@ -199,4 +199,9 @@
    "devices": ["V2029BA7A6CE5F9803A93"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Gietaaaa": {
+   "password": "$2y$12$hgzciVFNe1J0W7898F0Wtuxo40Amw0oHV.J/21nW7tBt3MtGDMXnK",
+   "devices": ["2201116SG280D5B298442FC84"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
