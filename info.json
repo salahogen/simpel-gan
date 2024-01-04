@@ -159,4 +159,9 @@
    "devices": ["CPH1823749E0F03CCC62B2D"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Rini": {
+   "password": "$2y$12$Sg8STIDLAhJBq5KUMBDfBuK1rcQaGxtdVLAS0cpIExnl68oGgd.Mm",
+   "devices": ["CPH1937F27AD17E01D18BB0"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
