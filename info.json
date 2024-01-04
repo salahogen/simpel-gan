@@ -179,4 +179,24 @@
    "devices": ["SM-A505FB0CE51078B929333"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "EndangGan1": {
+   "password": "$2y$12$9u10kVi1FBcYghsD62mjIO7feVqW49gCHBdAHFkGMQbClkYh2/0Vm",
+   "devices": ["CPH1725V4VSBYVWRKPJV4DU"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "PuguhAjiGan1": {
+   "password": "$2y$12$z7Vve.DrcgPX.t6tkRJ24OXiWjoY37GqGgtRKP6RQFIeIu6icUkwO",
+   "devices": ["M2010J19SGC1CF11233C0C26A6"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "TitisGan2": {
+   "password": "$2y$12$crCkT.JJsLySJBG7fR6K7uO1SH5nEWO9Jtt7B8jOje0Oemv8fGflC",
+   "devices": ["21061119AGE3C91B6F741D573A"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "WahyuTri1234": {
+   "password": "$2y$12$LLWcNcGec6nEFkS9Zu//uOeKF60jZwderpjK1qEPFWM8z7w3i4Qke",
+   "devices": ["V2029BA7A6CE5F9803A93"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
