@@ -234,4 +234,9 @@
    "devices": ["M2010J19CGBC675C5F721A39EF"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "nurgan123": {
+   "password": "$2y$12$fyPcrgRplbiIJJcyxkl.NuYpMXxFaaCFgpTV0V7rrFmzrfcdDejhe",
+   "devices": ["CPH24733575A6382C19961F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
