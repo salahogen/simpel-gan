@@ -219,4 +219,9 @@
    "devices": ["CPH1911B4D5F7CE76772DC6"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "pursimpel": {
+   "password": "$2y$12$YCZf4mUma.3mQfIZfkXrguC.xxyClXXI7JzfIofxs3Uux2iPDf/ui",
+   "devices": ["SM-A546E215B8ECB289DB65D"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
