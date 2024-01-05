@@ -204,4 +204,9 @@
    "devices": ["2201116SG280D5B298442FC84"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Erlina12": {
+   "password": "$2y$12$qGlJu5IAyaBIU2DKgXFn4.PLo0TlcQP0K87ZtPX5xe4BRQp9ggPdq",
+   "devices": ["SM-A528B6DC0D0B84638D0B5"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
