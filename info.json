@@ -224,4 +224,9 @@
    "devices": ["SM-A546E215B8ECB289DB65D"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "agussimpel": {
+   "password": "$2y$12$RbhpRZx6Vf9ag.JOkb04De.uNSDPwqIlFgmUZLAw7HHKC12dIqmQ2",
+   "devices": ["SM-A125FF92363ECB4805760"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
