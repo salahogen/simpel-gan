@@ -229,4 +229,9 @@
    "devices": ["SM-A125FF92363ECB4805760"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "nasikin": {
+   "password": "$2y$12$ohFisRcDLvNxhSoHYQAGIOyRrWeHCAzTZomni6IAKSNwKYn.ZkTN.",
+   "devices": ["M2010J19CGBC675C5F721A39EF"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
