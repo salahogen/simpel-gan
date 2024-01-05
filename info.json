@@ -239,4 +239,9 @@
    "devices": ["SM-A125FF92363ECB4805760"],
    "expiry": "31-07-2024 12:00 PM"
 },  
+   "Mashadigan": {
+   "password": "$2y$12$hsNG01/oowvKq8oEo6my5ezL02c7iG2gUC8ym4fk4EMaBNniu6rpS",
+   "devices": ["VIVO1938686E9D14ACA5600F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
