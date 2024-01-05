@@ -224,11 +224,6 @@
    "devices": ["SM-A546E215B8ECB289DB65D"],
    "expiry": "31-07-2024 12:00 PM"
 },
-   "agussimpel": {
-   "password": "$2y$12$RbhpRZx6Vf9ag.JOkb04De.uNSDPwqIlFgmUZLAw7HHKC12dIqmQ2",
-   "devices": ["SM-A125FF92363ECB4805760"],
-   "expiry": "31-07-2024 12:00 PM"
-},
    "nasikin": {
    "password": "$2y$12$ohFisRcDLvNxhSoHYQAGIOyRrWeHCAzTZomni6IAKSNwKYn.ZkTN.",
    "devices": ["M2010J19CGBC675C5F721A39EF"],
@@ -239,4 +234,9 @@
    "devices": ["CPH24733575A6382C19961F"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "agusgan": {
+   "password": "$2y$12$n0mPOrn1tLpiT0/kbiCquO2MroXvGDf2jYAiBKAeXfpQt72cDkbSG",
+   "devices": ["SM-A125FF92363ECB4805760"],
+   "expiry": "31-07-2024 12:00 PM"
+},  
 }
