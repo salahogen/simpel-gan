@@ -209,4 +209,9 @@
    "devices": ["SM-A528B6DC0D0B84638D0B5"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "rindang": {
+   "password": "$2y$12$tPO9fVzNtgppLx9j5Jbw2OB0QgfAt9FrJpN8dQUE38SnFRGIZRYmq",
+   "devices": ["2201117PGD923D5C97FE23D28"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
