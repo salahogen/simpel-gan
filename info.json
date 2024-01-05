@@ -214,4 +214,9 @@
    "devices": ["2201117PGD923D5C97FE23D28"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Harsimpel": {
+   "password": "$2y$12$RwhLRw52P0yZB3Yss6bBkO5.E99gLZ/UWhrKmMcyCWd.8z0FT4DJ2",
+   "devices": ["CPH1911B4D5F7CE76772DC6"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
