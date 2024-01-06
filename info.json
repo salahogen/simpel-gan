@@ -259,4 +259,9 @@
    "devices": ["VIVO1904F12F160909953772"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "DewiS1234": {
+   "password": "$2y$12$lFKk422aB7lhqgy4tVewRuRGtyApGX4SmDYFjnNacvpKWjtTSX5xm",
+   "devices": ["CPH20830AA160E85838A614"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
