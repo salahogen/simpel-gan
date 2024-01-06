@@ -254,4 +254,9 @@
    "devices": ["CPH19014DFFB92F"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "MegaS1234": {
+   "password": "$2y$12$zfWKz5O10VaC93/hZNNRneHBWcUoUZM2dERDsicBd5hUMIYk/uu1K",
+   "devices": ["VIVO1904F12F160909953772"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
