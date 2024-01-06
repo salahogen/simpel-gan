@@ -264,4 +264,9 @@
    "devices": ["CPH20830AA160E85838A614"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Nadiagan": {
+   "password": "$2y$12$3bIDSJXwj7iOu9s5oJ3VQ.5IMX.sfVyF0Rc0BZrkwPGgvBPD1BsxC",
+   "devices": ["CPH2565C9A7E63E65146B14"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
