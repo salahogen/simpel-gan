@@ -244,4 +244,14 @@
    "devices": ["VIVO1938686E9D14ACA5600F"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "ZaliYes1234": {
+   "password": "$2y$12$Mg3enO42Hs0.mBNLVcvtmOXggNRxG86suYjET2Y6lBf8LSCgGricq",
+   "devices": ["RMX2189BD915B98A85AC032"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "HeriS1234": {
+   "password": "$2y$12$lWtFlqlJBRElgxWQN7ccru943o4ym9qRjFiKdo1JPQXbC3WJ8fw6S",
+   "devices": ["CPH19014DFFB92F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
