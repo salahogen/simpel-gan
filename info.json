@@ -274,4 +274,9 @@
    "devices": ["CPH19377A45400BE3B8E050"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Simpelgan": {
+   "password": "$2y$12$rPenaUR9shdS0UBTMRvT5O4xI1lEcvfz55rwNp8DflL0KyTnvhkKq",
+   "devices": ["CPH2059197E9B3820DCADD6"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
