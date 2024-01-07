@@ -269,4 +269,9 @@
    "devices": ["CPH2565C9A7E63E65146B14"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "fajargan": {
+   "password": "$2y$12$3wvxd5ZH4LaVoghWz6YQ4eLRCie7vbTa5iWB90RF5fGScRwJFV7/2",
+   "devices": ["CPH19377A45400BE3B8E050"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
