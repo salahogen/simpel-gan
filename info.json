@@ -359,4 +359,14 @@
    "devices": ["RMX2195D19615A43846B8AF"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Bamgan": {
+   "password": "$2y$12$W.D67Pvld4aj0SQTNS9G4uSjjPUzTboBpS6Y9VB7LjNnWewQocYp6",
+   "devices": ["CPH2015AA8813CC9DEAA4CB"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "sugenggan": {
+   "password": "$2y$12$MsUe7fRH9GP6rHgYv7KW/uCpFmt/AlWql9BpPQvFGQkHdqdN3vgla",
+   "devices": ["REDMINOTE43BA0DEAF0504"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
