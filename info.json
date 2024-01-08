@@ -474,4 +474,9 @@
    "devices": ["CPH2473759E774FD76DC823"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "rusnogan": {
+   "password": "$2y$12$s8xLYs3F1J3ampL0FomsKOISwHQ4oxAUWSB2ENwjqlHWZOhqojvXq",
+   "devices": ["CPH23754721DFD98F7A124F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
