@@ -484,4 +484,9 @@
    "devices": ["SM-A135F32965B426EA16E9E"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "suharnogan": {
+   "password": "$2y$12$ylFahVW6obRBnmmRSdzUl.LOaURWnVaAMDcjPna0akW0IVS//pzB6",
+   "devices": ["CPH18037A755555"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
