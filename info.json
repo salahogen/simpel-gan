@@ -414,4 +414,14 @@
    "devices": ["SM-J730G2EBD70A90978F63B"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "darmintogan": {
+   "password": "$2y$12$TvrScJ/L8fNMmCpXwjyiLOZmYAaZQbWOcPA7AAuHhSV56LLCKEZ/S",
+   "devices": ["INFINIXX6731BD6D093B2F80C8AA3"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "ernagan": {
+   "password": "$2y$12$NEBL18jL0eUZf7hmUM3llOtJg.pS7rOp2QaJROOoj4/XH0B3RmluK",
+   "devices": ["M2003J15SCC10E95F04CE73EBF"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
