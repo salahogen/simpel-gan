@@ -424,4 +424,9 @@
    "devices": ["M2003J15SCC10E95F04CE73EBF"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "candragan": {
+   "password": "$2y$12$tHArNX5tYk5l7OvNDTbTYeZMETN7j2g4FzOVjrTgnLNv76EsGtbi.",
+   "devices": ["U70C33408991493739"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
