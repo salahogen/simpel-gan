@@ -394,4 +394,9 @@
    "devices": ["SM-A042F050782E11F1FD430"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "rusmigan": {
+   "password": "$2y$12$6V9A1YlaxLG.ml4yDEmr..IV3eXcbfN/9bKZ7V1wPjo/NZqJhwXWS",
+   "devices": ["CPH2127757B5AD9E3220148"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
