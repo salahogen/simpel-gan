@@ -469,4 +469,9 @@
    "devices": ["REDMI5PLUS298ABD199805"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "maryantogan": {
+   "password": "$2y$12$gliMS2jhGK9qPeKQMYt44OqcG4/YDVjaVu3qHAITVpvCCiykfysdC",
+   "devices": ["CPH2473759E774FD76DC823"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
