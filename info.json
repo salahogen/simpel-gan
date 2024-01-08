@@ -369,4 +369,9 @@
    "devices": ["REDMINOTE43BA0DEAF0504"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "karnogan": {
+   "password": "$2y$12$vMSGWBS5kZZ6GiSnAtVDlOZo2NtiLELhSpaiJoYfWlv2KE8mal7qK",
+   "devices": ["SM-V21466C40E5383EA1C340"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
