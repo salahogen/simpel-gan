@@ -429,4 +429,9 @@
    "devices": ["U70C33408991493739"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "sarmingan": {
+   "password": "$2y$12$GjYYnwdZkEuvu3gN5v3.Se2q4ssPhNOIFzjExG0vgC/K8sptinyy6",
+   "devices": ["VIVO200798CC2EC2566CBCF9"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
