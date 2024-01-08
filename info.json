@@ -279,4 +279,9 @@
    "devices": ["CPH2059197E9B3820DCADD6"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "JokoP1234": {
+   "password": "$2y$12$BTSStrxTZtSKPUe4htNPYOLWOhfqyosQclj9tPWYkloiopKzGjk7m",
+   "devices": ["V2131A5F6935BA993F63F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
