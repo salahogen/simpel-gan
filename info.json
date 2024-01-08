@@ -444,4 +444,9 @@
    "devices": ["CPH22391586ACC61B65E31A"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Liyagan": {
+   "password": "$2y$12$WKFBbIOWfrXdgQlGgV7.VOxD4..iqWIieRN0uaIma5DF.k0.AH1j.",
+   "devices": ["V2027ED1982CDDC546997"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
