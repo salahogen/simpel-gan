@@ -459,4 +459,9 @@
    "devices": ["RMX371043ADC04CB88D30BC"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Yuliangan": {
+   "password": "$2y$12$CxxarsCZ7NvHO7WWvLJ5ZeXSr844/vwdpoOT8DakPiKfWy5BB4/uq",
+   "devices": ["SM-A546E2BEFD94B61D13EFB"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
