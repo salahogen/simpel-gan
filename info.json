@@ -379,4 +379,9 @@
    "devices": ["220333QAGF636A04AF499F5D4"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "romlanan": {
+   "password": "$2y$12$VqDLPU4fVTO16eIVJMeBguVQkenzrwHTMjgQJeqloXZSB0qinIJha",
+   "devices": ["INFINIXX688B5CCC72245FDC6409"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
