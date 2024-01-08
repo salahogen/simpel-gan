@@ -479,4 +479,9 @@
    "devices": ["CPH23754721DFD98F7A124F"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "lulukgan": {
+   "password": "$2y$12$vbmJ23PftPiA86qQ3FOp4eBpoVV/haaoNUnrKsNRQunnOXWBrEina",
+   "devices": ["SM-A135F32965B426EA16E9E"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
