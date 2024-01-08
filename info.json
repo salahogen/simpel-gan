@@ -284,4 +284,64 @@
    "devices": ["V2131A5F6935BA993F63F"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "yoyokgan": {
+   "password": "$2y$12$hrNepKY7TWzSJJ1Kie4GVuwe1ceOVZRv6Ol7KyibE7sl5F1.I3Jgu",
+   "devices": ["REDMINOTE82BA342186D5D850F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "betigan": {
+   "password": "$2y$12$FA7gxYmJyPSN8w82Y8S7WuCBuJiti7gzLQohmfNEic00dGaHAdxoe",
+   "devices": ["CPH2127B37C4DBBFF2DB057"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "nanagan": {
+   "password": "$2y$12$6iFk8bp8gGE.DKExYaAVb.0SgzMI26PKvqXMPl16NAQcyZ/pG2NLG",
+   "devices": ["2201116TG8ECCC9A42A3127DB"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "ekogan": {
+   "password": "$2y$12$8FVqg7naZ0ryZrKTzGfvSeGBmgdh8BbCbotGobyfwHB/IiXJAsyzy",
+   "devices": ["ITELP662LAF8D7DAF95FCBF63"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "silvigan": {
+   "password": "$2y$12$OWnmIiyNAe9dZk1HjMfOhexnlKsKVqRUhJ3jIrMDd5pLf1AOo8E0O",
+   "devices": ["CPH2461258FA3833AA68853"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "santogan": {
+   "password": "$2y$12$MxOfiiDtvPKKSJ2mGAm.c.cMwlZd3IkOvNcEzPBjZKHd0PMhQLiQW",
+   "devices": ["VIVO19151BBFDA9BF2DF9F4A"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "julicangan": {
+   "password": "$2y$12$yIlgiLeE9CO.1JFO22kf7.9DohvoB2i/82kUMwTE00FaVJcKjHdKy",
+   "devices": ["VIVO19046C4D2583B09AE4AB"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "dodogan": {
+   "password": "$2y$12$UZ.HiAbUYZGdMplzY7qNGuFMEs5cQjpbBFpZu.ne4wfr7pJ53uWIW",
+   "devices": ["RMX3630F68C9127B633F1E6"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "trisgan": {
+   "password": "$2y$12$fEQUhhQ.Lgli1d2mZuwFc.6mVgrdSi0mDjwHjvgC8361h5oc7KcLK",
+   "devices": ["V212060168E714784AF36"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "sugikgan": {
+   "password": "$2y$12$SMgH3YYskSeKo4wjMCer.uNxRYklJfkJtCmChjVH9i/EWHRtz9YxO",
+   "devices": ["CPH19338D9156B21B20950F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "subigan": {
+   "password": "$2y$12$Vc2sXgGIzfbAedqJeG48de6q66LLCtM4SSOziqCAG8BAYnmv9WfWO",
+   "devices": ["RMX35110DDED71B0F96A68B"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "asrofigan": {
+   "password": "$2y$12$rpGABAr.bOu68ryXIM.e8.N1XyDLms/qHe6WLOExs10.jQO9S0d3.",
+   "devices": ["M2101K7AG5F56F7B14FEFE06E"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
