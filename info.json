@@ -1,4 +1,9 @@
 {
+   "Sitinoviagan": {
+   "password": "$2y$12$ZbvLdt/HjDMlhpiGtlv7.OmGg6YDGGP3jc.s4yYdLgLmk8ZsyxlEK",
+   "devices": ["M2010J19CG3256653A7C98DFF2"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Lizarya68": {
    "password": "$2y$12$5RFmoTdTSsdHquDo.7roO.3tbk4N5ai7oPtBftl96JRKa6G5J4w76",
    "devices": ["SM-A115F97371FFBA5F59F45"],
