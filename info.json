@@ -464,4 +464,9 @@
    "devices": ["SM-A546E2BEFD94B61D13EFB"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Supriyantogan": {
+   "password": "$2y$12$q6h90rBvEY9TeWW2I5lOnOARGCEFXb/DbExe4jWbqUHuFSSfn3cva",
+   "devices": ["REDMI5PLUS298ABD199805"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
