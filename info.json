@@ -384,4 +384,9 @@
    "devices": ["INFINIXX688B5CCC72245FDC6409"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "slametgan": {
+   "password": "$2y$12$A03jw8O9bFtQFNxpectcNe142zm.hM6EzXjoyxm6yGXRlOYcBQMxq",
+   "devices": ["CPH2365C1234A58EAA2E524"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
