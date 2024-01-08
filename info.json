@@ -434,4 +434,9 @@
    "devices": ["VIVO200798CC2EC2566CBCF9"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Lestarigan": {
+   "password": "$2y$12$aT8n5i5ZsYkeuG/p4YrAIeGbb.6izO0pKpqHDb2OzrQP6UHBaZPG6",
+   "devices": ["SM-A015F0FB6E869F35A1799"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
