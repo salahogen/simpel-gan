@@ -449,4 +449,9 @@
    "devices": ["V2027ED1982CDDC546997"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Trigan": {
+   "password": "$2y$12$hhh2g6Ko3hpdv.iRc.2JWemsMX8XlSFVxPT9E3cXItfi2xhsFz5DG",
+   "devices": ["V2038C86BC86E54AB9E36"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
