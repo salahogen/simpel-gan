@@ -454,4 +454,9 @@
    "devices": ["V2038C86BC86E54AB9E36"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Novianagan": {
+   "password": "$2y$12$SFF.4w0Bd8zmEnl4WnYOS.sDQSNZ6ZhTJRz5mKS7/bfhN8svvoj0q",
+   "devices": ["RMX371043ADC04CB88D30BC"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
