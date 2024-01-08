@@ -404,4 +404,9 @@
    "devices": ["2209116AGA134619AE339A3CE"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "harigan": {
+   "password": "$2y$12$qDp1Pebthmymn7W7NiSwIOtDlgCVGPaSoJF/A3qzmY1uVPYqh2wXi",
+   "devices": ["VIVO1820JVDQBA4P7H8T5HGU"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
