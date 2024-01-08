@@ -354,4 +354,9 @@
    "devices": ["SM-M105GB8F69393A498 67E1"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "Hudagan": {
+   "password": "$2y$12$l1z2PTQuTEeL/N0p1VGqCOBLDmIXyc65oM6Pg/OlNWqaQ0vrVLu/e",
+   "devices": ["RMX2195D19615A43846B8AF"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
