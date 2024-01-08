@@ -389,4 +389,9 @@
    "devices": ["CPH2365C1234A58EAA2E524"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "dwigan": {
+   "password": "$2y$12$3if5ziO.nH9VUqXDaG3PIurQLZFksXeCRj1O5T2wfRrgsETqPbvxi",
+   "devices": ["SM-A042F050782E11F1FD430"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
