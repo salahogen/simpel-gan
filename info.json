@@ -409,4 +409,9 @@
    "devices": ["VIVO1820JVDQBA4P7H8T5HGU"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "giyonogan": {
+   "password": "$2y$12$6ixM2xYnCZ3UBAewIAxWXOOPJo/rkh5YrLTfhyBOsvjv.b0fyP5ju",
+   "devices": ["SM-J730G2EBD70A90978F63B"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
