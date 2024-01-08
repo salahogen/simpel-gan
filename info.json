@@ -374,4 +374,9 @@
    "devices": ["SM-V21466C40E5383EA1C340"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "fajargan": {
+   "password": "$2y$12$4M/2wY5Q4Cd2KFjPem5C4u9khql/a43zXLDWSBKiI2uis4tCXhB.G",
+   "devices": ["220333QAGF636A04AF499F5D4"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
