@@ -439,4 +439,9 @@
    "devices": ["SM-A015F0FB6E869F35A1799"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "wingan": {
+   "password": "$2y$12$1jJmLfSAfL0/V8c19S3lgeYL6GMkxXGHPExgm6R/a1mQO0tmJ8p36",
+   "devices": ["CPH22391586ACC61B65E31A"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
