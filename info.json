@@ -400,8 +400,8 @@
    "expiry": "31-07-2024 12:00 PM"
 },
    "masboy": {
-   "password": "$2y$12$kUUcWGHoS7T.jp8JtCUfCOloFfrQF/4XIuSmo9/tq.7JxPSC/9CRK",
-   "devices": ["2209116AGA134619AE339A3CE","CPH2127757B5AD9E3220148"],
+   "password": "$2y$12$XaAs6oK9LoWO/Zpsw9/nEOT/DnoGGTgx5YUZYPPMDNffhzeeTPlqm",
+   "devices": ["2209116AGA134619AE339A3CE"],
    "expiry": "31-07-2024 12:00 PM"
 },
 }
