@@ -1,4 +1,9 @@
 {
+   "Widiarsogan": {
+   "password": "$2y$12$pty0HOKmvoZ02llMJJXreOVujZ.6TQhaU7.sjh8ZWXDY4DluPW6Ea",
+   "devices": ["M2006C3MGDFED30FBFEA44D9A"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Muryantogan": {
    "password": "$2y$12$5v5TTGckFb8E15G4WZbw2uAMlorzuVczQiQHOWE9CN9glnmkkObhS",
    "devices": ["CPH22199328CEF4F36DE2C4"],
