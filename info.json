@@ -1,4 +1,9 @@
 {
+   "KismiatiG1234": {
+   "password": "$2y$12$ln26stwN2P10aVZEFoXj5.Z3hRLAkmsRPNKpVwr2OL4GhyXd4s9uu",
+   "devices": ["V2110D1A4B61F339E4EBF"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Didit": {
    "password": "$2y$12$bkn9lLkD3I8f7/RutsKn2.d/sFvj2FXkzdHqoHzwEeQowV7sYwev6",
    "devices": ["CPH2159033F75A3154983F6"],
