@@ -1,4 +1,9 @@
 {
+   "Suryawatigan": {
+   "password": "$2y$12$swvTojfnGprdojX3XNeFAOn3sIktfFYf5wp0W9KOtFnShGE7ywMFa",
+   "devices": ["V20262EC8472A8A6956A1"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Siswantagan": {
    "password": "$2y$12$ouEEk9Xdge1Vud2iUR7iEeyCn8oOQHx/qnW2fcBgn5fkNUVr/PkvK",
    "devices": ["SM-J510FN56CFECC3"],
