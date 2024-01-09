@@ -1,4 +1,9 @@
 {
+   "yayukgan": {
+   "password": "$2y$12$Vxj7hWeTUzc8zDjr0cx0aOGINGQZLAYZv34aEoR2b7SPvJq/huA5q",
+   "devices": ["SM-A145F035907F1FFC00207"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "SawilahG1234": {
    "password": "$2y$12$OMddTTC6OFSPd8h31DZEyuMqAapCnjIgRqL29BU5zqp15QP79eq5.",
    "devices": ["V2111F07B0C5E465CDC48"],
