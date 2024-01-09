@@ -1,4 +1,9 @@
 {
+   "Heruekgan": {
+   "password": "$2y$12$P9WDQ8lID9NBaRYE4ESEh.YSUXZYTvyKSCVC6uhuPOkP6moEf93EG",
+   "devices": ["REDMINOTE9PRO1DB125D37A927858"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Sulastrigan": {
    "password": "$2y$12$DBAhKhzRkxTHasqOkezQauSQRFS7ZoxfUYXq8YRSABfzHTN03eRhu",
    "devices": ["V2043F5BC95C857E3C336"],
