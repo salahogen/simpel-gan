@@ -1,4 +1,9 @@
 {
+   "Sulastrigan": {
+   "password": "$2y$12$DBAhKhzRkxTHasqOkezQauSQRFS7ZoxfUYXq8YRSABfzHTN03eRhu",
+   "devices": ["V2043F5BC95C857E3C336"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Suryawatigan": {
    "password": "$2y$12$swvTojfnGprdojX3XNeFAOn3sIktfFYf5wp0W9KOtFnShGE7ywMFa",
    "devices": ["V20262EC8472A8A6956A1"],
@@ -94,10 +99,10 @@
    "devices": ["CPH223958F2A5C0D1D7D595"],
    "expiry": "31-07-2024 12:00 PM"
 },
-   "bamskuy": {
-   "password": "$2y$12$oxTteKF0zA/rYKN89zkN4ulx4bUcM3Honcc/maz1m.lu3kOtl0VzK",
-   "devices": ["21121210GE57F082048662F32"],
-   "expiry": "30-06-2024 12:00 PM"
+   "bamskuyyy": {
+   "password": "$2y$12$HC7RivupVZ3ZaQ7YzQzT8.ZBI9jFUF57ULVE0EqQhsDySn1txuU5m",
+   "devices": ["MI10PRO0F8EE06AD8467474"],
+   "expiry": "31-07-2024 12:00 PM"
 },
    "riskitriwidya12": {
    "password": "$2y$12$SandZUfoe35FJ8ugm4iGPuny/gxkLJSLrF6fZwsv4lIkpAj2MZoeu",
