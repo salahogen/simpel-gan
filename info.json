@@ -1,4 +1,9 @@
 {
+   "Didit": {
+   "password": "$2y$12$bkn9lLkD3I8f7/RutsKn2.d/sFvj2FXkzdHqoHzwEeQowV7sYwev6",
+   "devices": ["CPH2159033F75A3154983F6"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Sitinoviagan": {
    "password": "$2y$12$ZbvLdt/HjDMlhpiGtlv7.OmGg6YDGGP3jc.s4yYdLgLmk8ZsyxlEK",
    "devices": ["M2010J19CG3256653A7C98DFF2"],
