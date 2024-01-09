@@ -1,4 +1,9 @@
 {
+   "RirisG1234": {
+   "password": "$2y$12$04wshb.X91a/S3x33DtSq.5GW///u..P6FahImQEzWGj3EC3vAwbK",
+   "devices": ["CPH22170D4A565C21484E9C"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "jokogan": {
    "password": "$2y$12$aI6uM8mL3XQ20k4134G1p.4jOcm1KnbK0lOe6AtUPzgN3Zqjvl456",
    "devices": ["V2207DCB08AEFE2C59308"],
