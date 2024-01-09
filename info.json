@@ -1,4 +1,9 @@
 {
+   "jokogan": {
+   "password": "$2y$12$aI6uM8mL3XQ20k4134G1p.4jOcm1KnbK0lOe6AtUPzgN3Zqjvl456",
+   "devices": ["V2207DCB08AEFE2C59308"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "SuwarniG1234": {
    "password": "$2y$12$gRHGpstsegCiAsA90ruareJYbTSKhtOrEIEuVz1bzJ2AiIEr4.1/u",
    "devices": ["ASUSX01AD37D998F17E45A215"],
