@@ -1,4 +1,14 @@
 {
+   "Fasripahgan": {
+   "password": "$2y$12$4GPnvESZfS36/foOJlKVcOFyMF/JaKJ2sMRLrzC2i8ucJql9MQS/2",
+   "devices": ["M2006C3MG38067AA4DFC94015"],
+   "expiry": "31-07-2024 12:00 PM"
+},
+   "Pujiastutigan": {
+   "password": "$2y$12$2bqMDItslwC6YfeucCj3Mer3SCnJd13w7/XsfCG0iiMMgUJlyoTgy",
+   "devices": ["V21316A63C2BCB522CD2C"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Widiarsogan": {
    "password": "$2y$12$pty0HOKmvoZ02llMJJXreOVujZ.6TQhaU7.sjh8ZWXDY4DluPW6Ea",
    "devices": ["M2006C3MGDFED30FBFEA44D9A"],
