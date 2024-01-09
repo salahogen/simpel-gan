@@ -1,4 +1,9 @@
 {
+   "SuwarniG1234": {
+   "password": "$2y$12$gRHGpstsegCiAsA90ruareJYbTSKhtOrEIEuVz1bzJ2AiIEr4.1/u",
+   "devices": ["ASUSX01AD37D998F17E45A215"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "HarinahG1234": {
    "password": "$2y$12$Sm75jeZax1VNz6t52jKf.uougfmUiyQwFfeF7DA4dmLuow7IGDXHm",
    "devices": ["CPH1911A67BF048FDC5C2EA"],
