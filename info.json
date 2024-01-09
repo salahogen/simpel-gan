@@ -1,4 +1,9 @@
 {
+   "Triwulangan": {
+   "password": "$2y$12$vGnufGuEFMcntN.qAt4feeZK7ChLeVV7o19kZJB0.dOTOv3emHdhG",
+   "devices": ["REDMINOTE77E77938FD42AC6FB"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Amaliagan": {
    "password": "$2y$12$d.eg5Yt9ysv90Y8EPPSc4.MDtuwWsHNtDYN.jmXdlw6iqWMk/RlpS",
    "devices": ["V2116DC86E47A1E7AF833"],
