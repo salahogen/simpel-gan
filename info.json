@@ -1,4 +1,9 @@
 {
+   "Muryantogan": {
+   "password": "$2y$12$5v5TTGckFb8E15G4WZbw2uAMlorzuVczQiQHOWE9CN9glnmkkObhS",
+   "devices": ["CPH22199328CEF4F36DE2C4"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Triwulangan": {
    "password": "$2y$12$vGnufGuEFMcntN.qAt4feeZK7ChLeVV7o19kZJB0.dOTOv3emHdhG",
    "devices": ["REDMINOTE77E77938FD42AC6FB"],
