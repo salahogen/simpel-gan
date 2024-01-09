@@ -1,4 +1,9 @@
 {
+   "Amaliagan": {
+   "password": "$2y$12$d.eg5Yt9ysv90Y8EPPSc4.MDtuwWsHNtDYN.jmXdlw6iqWMk/RlpS",
+   "devices": ["V2116DC86E47A1E7AF833"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Solikingan": {
    "password": "$2y$12$5z9oBBFT61B5fHuwadS.eOU.9wnOTOynYu2THLHfBJHEd1MXab/zq",
    "devices": ["CPH2083B5B0A0FA43EB894B"],
