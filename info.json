@@ -1,4 +1,9 @@
 {
+   "anikgan": {
+   "password": "$2y$12$t4gWw03..NWOnAJ/TJtdFezqCReBisi7OI/FtPgtZ2ZHmPNL6AG1e",
+   "devices": ["CPH2217429778DD059308C2"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "entingan": {
    "password": "$2y$12$U0yT/UXu1Qs5pri2j2d4N.Eme9wm.K/L7vNY1ayeU5AeklxfVkO9C",
    "devices": ["V2130F5B94F97241E3567"],
