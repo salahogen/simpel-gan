@@ -1,4 +1,9 @@
 {
+   "Nurhayatigan": {
+   "password": "$2y$12$ofQ6wIXL/nqb8GWN4ImIz.2AW.ObI5CHSXqJ86iUSfBermllEJ12G",
+   "devices": ["CPH2239DBDA3437AA680B6F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Endahpurgan": {
    "password": "$2y$12$JQeCKOyTbtMWLLNDZNfugOlyBDOa6hmY8ZHru9TCFE9qZmcrbcCcK",
    "devices": ["CPH19335F83D40DD4166714"],
