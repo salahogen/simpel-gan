@@ -1,4 +1,9 @@
 {
+   "wulangan": {
+   "password": "$2y$12$.AbczXQJYxYXCbnu4z/um.Ze..EFWzcQ2gkL/8LWHj6mkFnEqYG32",
+   "devices": ["23108RN04YB152B7E739AA034D"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "anggagan": {
    "password": "$2y$12$AHQE6GgvUb8J4tMliUICUOuUXvXaiHS7L.f3BmfTfh8ZXPiuoXEkC",
    "devices": ["22021211RG5E42C8E8C00EF3C7"],
