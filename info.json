@@ -1,4 +1,9 @@
 {
+   "rikigan": {
+   "password": "$2y$12$DjV06gJEWKawix8TnoaOP.Pt0ZQO7s0yssAokTlrFv.mZnZCBhzD.",
+   "devices": ["SM-A207FB9BE4F8939978F78"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "riskimahengan": {
    "password": "$2y$12$hQUFiIn29INOsqAbpH4V.OE8bCpoN.ofk7eL4uylApEoYlvf83slu",
    "devices": ["VIVO1814YS8TGQBQYSZHGM69"],
