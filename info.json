@@ -1,4 +1,9 @@
 {
+   "entingan": {
+   "password": "$2y$12$U0yT/UXu1Qs5pri2j2d4N.Eme9wm.K/L7vNY1ayeU5AeklxfVkO9C",
+   "devices": ["V2130F5B94F97241E3567"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Rennygan": {
    "password": "$2y$12$e5xSBN59yFREXaLPQG4YSeeUQJOg3pWH2V.nb15/EOAzLh648jy/G",
    "devices": ["V2038C771D32A8DE3E47D"],
