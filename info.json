@@ -1,4 +1,9 @@
 {
+   "fitriawpgan": {
+   "password": "$2y$12$0zBMFP4dl9sAeeVxnVKSk.68mHzYXouzj8rU589WW0ug4fPOciS5W",
+   "devices": ["SM-F711BB08F4401375D4982"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "nanikp": {
    "password": "$2y$12$UOt.AxezSmyuHwz9i88XUe2VqYD1wQZldV4UpJ3YQ5TbydlWL6a/6",
    "devices": ["SM-A047F43EADEFDC11CEDDA"],
