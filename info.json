@@ -1,4 +1,9 @@
 {
+   "intanfitgan": {
+   "password": "$2y$12$wKZBKwnDQzFbozjA1EekIOSqmEiJf4vnQauMRbYNvYvGihuO5aAom",
+   "devices": ["CPH2043EC2B26E7E2E72D4F"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "arfistikgan": {
    "password": "$2y$12$1lmdWmOkyZwvaTHnESwck.7PFzAxwgn06r6rRZi7RuitzLGF0ui.m",
    "devices": ["SM-G610F3300FEB4F5728317"],
