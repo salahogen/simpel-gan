@@ -1,4 +1,9 @@
 {
+   "arfistikgan": {
+   "password": "$2y$12$1lmdWmOkyZwvaTHnESwck.7PFzAxwgn06r6rRZi7RuitzLGF0ui.m",
+   "devices": ["SM-G610F3300FEB4F5728317"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "Renipurgan": {
    "password": "$2y$12$ymMmap8rvXwMDhNlUqR6/equ0CXPbY0.c6bJQxoFwnOEejEiQHigm",
    "devices": ["CPH201524C6E800760781FE"],
