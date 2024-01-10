@@ -1,4 +1,9 @@
 {
+   "riskimahengan": {
+   "password": "$2y$12$hQUFiIn29INOsqAbpH4V.OE8bCpoN.ofk7eL4uylApEoYlvf83slu",
+   "devices": ["VIVO1814YS8TGQBQYSZHGM69"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "iingan": {
    "password": "$2y$12$1DHSwsXpbiCincOTIfTUQe339k/mZZ535jKzqVJWX1HT4SFBaSQRK",
    "devices": ["SM-A042F77D0560C4A78B538"],
