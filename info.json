@@ -1,4 +1,9 @@
 {
+   "rustinigan": {
+   "password": "$2y$12$4Mk263GBftqxv5A10EZUlOS1gszpC7ydZ.AAeUi/QZAcaGrORKV9u",
+   "devices": ["M2006C3LG9BF254851C119243"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "nurkhamid0410": {
    "password": "$2y$12$ynPlRMV1afMmEuqqYlINV.pV3EjiIWbxWxaoqrW.OQ0otmGF6NbdC",
    "devices": ["SM-A015F4633C5BF970B73DB"],
