@@ -1,4 +1,9 @@
 {
+   "yanigan": {
+   "password": "$2y$12$9V7jTDE/Qu8X70Z9/iw9xu1vxCDCF4KYs5H3dnnyEQOFfi1ISKWmS",
+   "devices": ["RMX3235822E061D15F869DD"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "trininggan": {
    "password": "$2y$12$yEbVbVFDLOEJk9L3CLXiJezYA4ggF9HH06RSaF58fYOc4vw89WqjG",
    "devices": ["RMX1821C387E9AC287BD8F8"],
