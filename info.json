@@ -1,4 +1,9 @@
 {
+   "mugi0802": {
+   "password": "$2y$12$.8ZSrJGTWoYJX.2Ui68S2u1FM0I7BqN.331F23g8aeQM3/nzPfTBe",
+   "devices": ["SM-A125FC39A5689D39E6FE1"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "onihergan": {
    "password": "$2y$12$Nr/jcU6qYdHUXc2fXRHt3.ShEKlZDLWHpAPscJdh2v52bUdPGDN8a",
    "devices": ["SM-A336E1FF3674942E5AE6C"],
