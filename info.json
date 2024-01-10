@@ -1,4 +1,9 @@
 {
+   "anggagan": {
+   "password": "$2y$12$AHQE6GgvUb8J4tMliUICUOuUXvXaiHS7L.f3BmfTfh8ZXPiuoXEkC",
+   "devices": ["22021211RG5E42C8E8C00EF3C7"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "devigan": {
    "password": "$2y$12$gZ5IR/io.5Fo9gfC81FQi.mgMIkFMvtG9QDl/Og.nT6Sc7wXDwCgO",
    "devices": ["23053RN02AD0D3EE7CABC85BD6"],
