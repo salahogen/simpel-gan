@@ -1,4 +1,9 @@
 {
+   "nanikp": {
+   "password": "$2y$12$UOt.AxezSmyuHwz9i88XUe2VqYD1wQZldV4UpJ3YQ5TbydlWL6a/6",
+   "devices": ["SM-A047F43EADEFDC11CEDDA"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "feraandriana": {
    "password": "$2y$12$JNZRrvt3nOKngfnHfhv8Fe9ZqDTAUpJ0BzuhBiYL6peTUJDT.kLeu",
    "devices": ["V2108B86FE43A9E8EC678"],
