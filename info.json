@@ -1,4 +1,9 @@
 {
+   "onihergan": {
+   "password": "$2y$12$Nr/jcU6qYdHUXc2fXRHt3.ShEKlZDLWHpAPscJdh2v52bUdPGDN8a",
+   "devices": ["SM-A336E1FF3674942E5AE6C"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "yanigan": {
    "password": "$2y$12$9V7jTDE/Qu8X70Z9/iw9xu1vxCDCF4KYs5H3dnnyEQOFfi1ISKWmS",
    "devices": ["RMX3235822E061D15F869DD"],
