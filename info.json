@@ -1,4 +1,9 @@
 {
+   "iingan": {
+   "password": "$2y$12$1DHSwsXpbiCincOTIfTUQe339k/mZZ535jKzqVJWX1HT4SFBaSQRK",
+   "devices": ["SM-A042F77D0560C4A78B538"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "shitagan": {
    "password": "$2y$12$uYTWFSa4.ykdytVfc6iYNOwKZrVLz6USyZOBFjS0AZ4T7F09gQ.dm",
    "devices": ["SM-A325F8A5FD83F91C87ADC"],
