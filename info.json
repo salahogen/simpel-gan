@@ -1,4 +1,9 @@
 {
+   "Renipurgan": {
+   "password": "$2y$12$izEupO9Z503ypYLh0LY2Y.Stc9g9hwmIq66qY9pQ/bTQa9ubh9Wo2",
+   "devices": ["SM-CPH201524C6E800760781FE"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "rikigan": {
    "password": "$2y$12$DjV06gJEWKawix8TnoaOP.Pt0ZQO7s0yssAokTlrFv.mZnZCBhzD.",
    "devices": ["SM-A207FB9BE4F8939978F78"],
