@@ -1,4 +1,9 @@
 {
+   "Rennygan": {
+   "password": "$2y$12$e5xSBN59yFREXaLPQG4YSeeUQJOg3pWH2V.nb15/EOAzLh648jy/G",
+   "devices": ["V2038C771D32A8DE3E47D"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "rustinigan": {
    "password": "$2y$12$4Mk263GBftqxv5A10EZUlOS1gszpC7ydZ.AAeUi/QZAcaGrORKV9u",
    "devices": ["M2006C3LG9BF254851C119243"],
