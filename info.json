@@ -1,4 +1,9 @@
 {
+   "feraandriana": {
+   "password": "$2y$12$JNZRrvt3nOKngfnHfhv8Fe9ZqDTAUpJ0BzuhBiYL6peTUJDT.kLeu",
+   "devices": ["V2108B86FE43A9E8EC678"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "intanfitgan": {
    "password": "$2y$12$wKZBKwnDQzFbozjA1EekIOSqmEiJf4vnQauMRbYNvYvGihuO5aAom",
    "devices": ["CPH2043EC2B26E7E2E72D4F"],
