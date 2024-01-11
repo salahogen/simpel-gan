@@ -1,8 +1,13 @@
 {
+   "duwigan": {
+   "password": "$2y$12$UpmrxoQtKzWcmLPMdC9sNOMhjBF8qtZlg7SBYOPMXqqxt3335CxTG",
+   "devices": ["CPH20617B79CDDEBB39148D"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "harjitogan": {
    "password": "$2y$12$HFI6zZUpIyIjMsy1K.uxTumqj7x9OI/fozPesbsn6fuKWhUa7iYFu",
    "devices": ["V2043577B67EC7C1E750C"],
-   "expiry": "01-01-2024 12:00 PM"
+   "expiry": "31-07-2024 12:00 PM"
 },
    "arifgan": {
    "password": "$2y$12$IoElqQPzXWaH0kftzpMfEumo.B37LNncky/oGZfaO8blx5cDFUdcG",
