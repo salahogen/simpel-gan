@@ -1,4 +1,9 @@
 {
+   "sutrigan": {
+   "password": "$2y$12$fNt3mCHTUIJ1DyB06oLSIuZ83ignw9YThkMioT.x6iNlxne913FCa",
+   "devices": ["CPH2577D3495C287FA37BBC"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "duwigan": {
    "password": "$2y$12$UpmrxoQtKzWcmLPMdC9sNOMhjBF8qtZlg7SBYOPMXqqxt3335CxTG",
    "devices": ["CPH20617B79CDDEBB39148D"],
