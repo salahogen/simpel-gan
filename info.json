@@ -1,4 +1,9 @@
 {
+   "arifgan": {
+   "password": "$2y$12$IoElqQPzXWaH0kftzpMfEumo.B37LNncky/oGZfaO8blx5cDFUdcG",
+   "devices": ["CPH24738948DBDBD67D4A2E"],
+   "expiry": "31-07-2024 12:00 PM"
+},
    "mugi0802": {
    "password": "$2y$12$.8ZSrJGTWoYJX.2Ui68S2u1FM0I7BqN.331F23g8aeQM3/nzPfTBe",
    "devices": ["SM-A125FC39A5689D39E6FE1"],
